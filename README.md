@@ -42,7 +42,7 @@ IDE: Intellij IDEA
  （4） 转账功能。
  （5） 交易日志功能。
 
-<img src="imgs/1.png" style="zoom:60%;" />
+<img src="./imgs/1.png" style="zoom:60%;" />
 
 ### 2.**项目结构**
 
